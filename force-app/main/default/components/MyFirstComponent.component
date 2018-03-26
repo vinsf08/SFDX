@@ -2,4 +2,7 @@
     <b>
         <apex:outputText value="This is my custom component."/> 
     </b>
+    <b>
+        <apex:outputText value="Added new line."/> 
+    </b>
 </apex:component>
